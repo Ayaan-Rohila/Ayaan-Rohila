@@ -144,15 +144,7 @@ console.log(ayan.getCurrentFocus());
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyanAhmedKhan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=f85149&currStreakLabel=c9d1d9"/>
-</div>
-
-<div align="center">
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=AyanAhmedKhan&custom_title=Ayan's%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area_color=21262d&area=true&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyanAhmedKhan&theme=onestar&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
 </div>
 
 ---
@@ -219,7 +211,7 @@ Sunday       ██████░░░░░░░░░░░░░░░░�
   <a href="https://www.linkedin.com/in/ayaan-ahmed-khan-5021643a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
-  <a href="mailto:ayaan.code.snippet@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayaan0703rohila@gmail.com&su=Hey&body=Hello I just saw your GITHUB account...">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
   <a href="https://ayaan-rohila.github.io/my-portfolio/">
@@ -228,20 +220,10 @@ Sunday       ██████░░░░░░░░░░░░░░░░�
   <a href="https://github.com/Ayaan-Rohila">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://discordapp.com/users/ayaan.ahmed.khan_86163_58193">
-    <img src="https://discordapp.com/users/ayaan.ahmed.khan_86163_58193" />
-  </a>
-  <a href="https://stackoverflow.com/users/your-id">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=FE7A16" />
-  </a>
-  <a href="https://medium.com/@">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" />
+  <a href="https://www.instagram.com/rohilaayaan/?utm_source=ig_web_button_share_sheet">
+   <img src="https://img.shields.io/badge/Instagram-100000000?style=for-the-badge&logo=instagram&logoColor=rwhite&labelColor=10000000000" />
   </a>
 </p>
-
 </div>
 
 ---
