@@ -286,5 +286,5 @@ console.log("Current status:", ayanStats);
 </div>
 
 
-
+.......
 ---
